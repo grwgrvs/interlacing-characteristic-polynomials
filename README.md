@@ -1,1 +1,0 @@
-# interlacing-characteristic-polynomials
